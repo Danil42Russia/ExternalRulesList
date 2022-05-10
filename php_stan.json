@@ -91,6 +91,7 @@
   "PHPStan\\Rules\\Functions\\RandomIntParametersRule",
   "PHPStan\\Rules\\Functions\\ReturnNullsafeByRefRule",
   "PHPStan\\Rules\\Generics\\FunctionTemplateTypeRule",
+  "PHPStan\\Rules\\Methods\\ConsistentConstructorRule",
   "PHPStan\\Rules\\Namespaces\\ExistingNamesInUseRule",
   "PHPStan\\Rules\\PhpDoc\\IncompatiblePhpDocTypeRule",
   "PHPStan\\Rules\\Properties\\OverridingPropertyRule",
