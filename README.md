@@ -4,5 +4,5 @@
 |[PhpInspections](php_inspections.json)|178|0|0|178|
 |[Psalm](psalm.json)|281|0|0|281|
 |[PhpMD](php_md.json)|45|0|0|45|
-|[PhpStan](php_stan.json)|201|0|0|201|
-|**Итого**|973|0|0|973|
+|[PhpStan](php_stan.json)|204|0|0|204|
+|**Итого**|976|0|0|976|
