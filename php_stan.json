@@ -140,6 +140,7 @@
   "PHPStan\\Rules\\Methods\\MissingMethodImplementationRule",
   "PHPStan\\Rules\\Methods\\MissingMethodReturnTypehintRule",
   "PHPStan\\Rules\\Properties\\AccessPropertiesInAssignRule",
+  "PHPStan\\Rules\\Properties\\ReadOnlyByPhpDocPropertyRule",
   "PHPStan\\Rules\\Functions\\ExistingClassesInTypehintsRule",
   "PHPStan\\Rules\\Methods\\IllegalConstructorMethodCallRule",
   "PHPStan\\Rules\\Methods\\IllegalConstructorStaticCallRule",
