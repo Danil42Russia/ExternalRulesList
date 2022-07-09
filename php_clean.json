@@ -1,0 +1,17 @@
+[
+  "ToStringCallInspection",
+  "AssignMisusedInspection",
+  "DeprecatedDocTagInspection",
+  "MethodVisibilityInspection",
+  "VirtualTypeCheckInspection",
+  "MissingReturnTypeInspection",
+  "ClassNameCollisionInspection",
+  "MethodCanBePrivateInspection",
+  "PropertyAnnotationInspection",
+  "GlobalVariableUsageInspection",
+  "MethodShouldBeFinalInspection",
+  "PropertyCanBePrivateInspection",
+  "RedundantDocCommentTagInspection",
+  "ParentPropertyDeprecatedInspection",
+  "MissingParameterTypeDeclarationInspection"
+]
