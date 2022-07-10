@@ -63,6 +63,7 @@
   "PHPStan\\Rules\\Functions\\PrintfParametersRule",
   "PHPStan\\Rules\\Generics\\ClassTemplateTypeRule",
   "PHPStan\\Rules\\Generics\\TraitTemplateTypeRule",
+  "PHPStan\\Rules\\Methods\\FinalPrivateMethodRule",
   "PHPStan\\Rules\\Methods\\NullsafeMethodCallRule",
   "PHPStan\\Rules\\Operators\\InvalidAssignVarRule",
   "PHPStan\\Rules\\Variables\\CompactVariablesRule",

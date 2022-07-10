@@ -4,6 +4,6 @@
 |[PhpInspections](php_inspections.json)|178|0|0|178|
 |[Psalm](psalm.json)|281|0|0|281|
 |[PhpMD](php_md.json)|45|0|0|45|
-|[PhpStan](php_stan.json)|210|0|0|210|
+|[PhpStan](php_stan.json)|211|0|0|211|
 |[PhpClean](php_clean.json)|15|0|0|15|
-|**Итого**|997|0|3|994|
+|**Итого**|998|0|3|995|
