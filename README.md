@@ -5,5 +5,5 @@
 |[Psalm](psalm.json)|281|0|0|281|
 |[PhpMD](php_md.json)|45|0|0|45|
 |[PhpStan](php_stan.json)|211|0|0|211|
-|[PhpClean](php_clean.json)|15|0|0|15|
-|**Итого**|998|0|3|995|
+|[PhpClean](php_clean.json)|16|0|0|16|
+|**Итого**|999|0|3|996|

@@ -11,6 +11,7 @@
   "GlobalVariableUsageInspection",
   "MethodShouldBeFinalInspection",
   "PropertyCanBePrivateInspection",
+  "ProhibitedClassExtendInspection",
   "RedundantDocCommentTagInspection",
   "ParentPropertyDeprecatedInspection",
   "MissingParameterTypeDeclarationInspection"
